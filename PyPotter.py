@@ -7,8 +7,8 @@
 # THE SOFTWARE.
 
 import sys
-import OpenCV
-from OpenCV import *
+import cv2
+from cv2 import *
 import numpy as np
 import math
 import os
