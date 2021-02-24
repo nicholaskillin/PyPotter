@@ -1,8 +1,1 @@
 opencv-python
-sys
-numpy
-math
-os
-time
-datetime
-threading
